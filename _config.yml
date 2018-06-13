@@ -5,7 +5,7 @@ description: 欢迎来到我的个人站~
 # 头像里面的标题
 avatarTitle: 博客小站
 # 头像里面的描述
-avatarDesc: Android / Python / Java / PHP
+avatarDesc: Android / Java
 url: "http://blog.kingzero.cn"
 
 # Comment
@@ -15,10 +15,10 @@ comment:
 
 # Social
 social:
-    weibo: 零day 
+    #weibo:  
     github: zeromr
     # twitter: 
-    mail: #
+    #mail: 
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
